@@ -30,7 +30,7 @@ Type `exit` to leave the chat.
 ## 🎥 Demo Video
 You can watch a short demo of the project running here:
 
-👉 [**Click to Watch the Video**](https://fengtantaedu-my.sharepoint.com/:v:/g/personal/ug_31094026_f-eng_tanta_edu_eg/Eeg4ycXd9C5Fr94cwBNkEKgBhDBx2c2xSl6X2fKWF_Dxtw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vQF5Mt)
+👉 [**Click to Watch the Video**]https://drive.google.com/file/d/1-x3TGurOy7V1BD37LKQTS9urJkmOma1t/view?usp=drive_link
 
 ---
 
